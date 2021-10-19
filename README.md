@@ -71,6 +71,7 @@ sudo pacman -S docker python
 ```
 
 ## Setting up config file
+<details>
     <summary><b>Click here for more details</b></summary>
 
 ```
