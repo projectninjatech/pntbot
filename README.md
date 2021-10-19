@@ -153,7 +153,7 @@ sudo docker run mirrorbot
 ```
 mirror - Start Mirroring
 tar - Upload tar (zipped) file
-unzi - Extract files
+unzip - Extract files
 clone - copy file/folder to drive
 watch - mirror YT-DL support link
 tarw - mirror youtube playlist link as tar
