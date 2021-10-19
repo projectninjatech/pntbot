@@ -2,6 +2,8 @@
 
 # owner of this repo :- (https://github.com/projectninjatech)
 
+https://www.youtube.com/watch?v=af_FO2ZMoo0&t=10s
+
 # PNT Bot
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
 
