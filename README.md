@@ -1,10 +1,8 @@
-[![Slam](https://telegra.ph/file/511f10824f13e639703e1.jpg)](https://t.me/request_ayush)
+[![Slam](https://yt3.ggpht.com/IFcBhcf2HMMWJNKICkAzTHXmRa3VsWnaHl33csVM9zzZX4sI48AqykQDcxGSTZI49CJjDlR3oQ=s900-c-k-c0x00ffffff-no-rj)](https://t.me/projectninjatech)
 
-# owner of this repo :- [AYUSH](https://github.com/spe4641)
+# owner of this repo :- (https://github.com/projectninjatech)
 
-contact:- [AYUSH](https://t.me/request_ayush)
-
-# magneto mirrorat bot
+# PNT Bot
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
 
 i have changed aria.sh file to support it on heroku.
