@@ -164,7 +164,7 @@ del - Delete file from Drive
 list - [query] searches files in G-Drive
 status - Get Mirror Status message
 stats - Bot Usage Stats
-hlp - Get Detailed Help
+help - Get Detailed Help
 speedtest - Check Speed of the host
 log - Bot Log [owner only]
 repo - Get the bot repo
