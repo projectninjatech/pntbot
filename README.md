@@ -6,10 +6,7 @@
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
 
 ## Deploying on Heroku
-Give Star & Fork this repo, then upload **token.pickle** & **credentials.json** to your forks click [here](https://github.com/projectninjatech/techbot#getting-google-oauth-api-credential-file) for more details
-
-
-after this click on the below button 👇👇👇👇
+Give Star & Fork this repo, then upload **token.pickle** & **credentials.json** to your forks and after this click on the below button 👇👇👇👇
 <p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ## Features supported:
