@@ -47,7 +47,7 @@ def start(update, context):
 Hi {update.message.chat.first_name}, This bot can mirror all your links to Google drive!
 Type /{BotCommands.HelpCommand} to get a list of available commands
 '''
-    update.effective_message.reply_photo("https://telegra.ph/file/511f10824f13e639703e1.jpg", start_string, parse_mode=ParseMode.MARKDOWN)
+    update.effective_message.reply_photo("https://yt3.ggpht.com/IFcBhcf2HMMWJNKICkAzTHXmRa3VsWnaHl33csVM9zzZX4sI48AqykQDcxGSTZI49CJjDlR3oQ=s900-c-k-c0x00ffffff-no-rj", start_string, parse_mode=ParseMode.MARKDOWN)
 
 
 @run_async
@@ -118,9 +118,6 @@ def bot_help(update, context):
 
 /tshelp: Get help for torrent search module.
 
-/weebhelp: Get help for anime, manga and character module.
-
-/stickerhelp: Get help for stickers module.
 '''
     sendMessage(help_string, context.bot, update)
 
