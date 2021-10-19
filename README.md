@@ -5,10 +5,8 @@
 # PNT Bot
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
 
-i have changed aria.sh file to support it on heroku.
-
 ## Deploying on Heroku
-Give Star & Fork this repo, then upload **token.pickle** & **credentials.json** to your forks click [here](https://github.com/ayushteke/python_aria_mirror_bot_HEROKU#getting-google-oauth-api-credential-file) for more details
+Give Star & Fork this repo, then upload **token.pickle** & **credentials.json** to your forks click [here](https://github.com/projectninjatech/techbot#getting-google-oauth-api-credential-file) for more details
 
 
 after this click on the below button 👇👇👇👇
