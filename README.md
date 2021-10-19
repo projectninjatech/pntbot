@@ -1,4 +1,4 @@
-[![Slam](https://yt3.ggpht.com/IFcBhcf2HMMWJNKICkAzTHXmRa3VsWnaHl33csVM9zzZX4sI48AqykQDcxGSTZI49CJjDlR3oQ=s900-c-k-c0x00ffffff-no-rj)](https://t.me/projectninjatech)
+[![Slam](https://telegra.ph/file/7a3896b921c6bda4b213b.jpg)](https://t.me/projectninjatech)
 
 # owner of this repo :- (https://github.com/projectninjatech)
 
