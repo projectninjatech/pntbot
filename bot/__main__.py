@@ -116,8 +116,6 @@ def bot_help(update, context):
 
 /{BotCommands.RepoCommand}: Get the bot repo.
 
-/tshelp: Get help for torrent search module.
-
 '''
     sendMessage(help_string, context.bot, update)
 
