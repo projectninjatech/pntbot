@@ -54,7 +54,7 @@ Type /{BotCommands.HelpCommand} to get a list of available commands
 def repo(update, context):
     bot.send_message(update.message.chat_id,
     reply_to_message_id=update.message.message_id,
-    text="Repo: https://github.com/projectninjatech/techbot", disable_web_page_preview=True)
+    text="Repo: https://github.com/projectninjatech/pntbot", disable_web_page_preview=True)
 
 
 @run_async
