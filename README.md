@@ -51,8 +51,8 @@ Deploying is pretty much straight forward and is divided into several steps as f
 
 - Clone this repo:
 ```
-git clone https://github.com/projectninjatech/techbot
-cd mirrorbot
+git clone https://github.com/projectninjatech/pntbot
+cd pntbot
 ```
 
 - Install requirements
