@@ -62,8 +62,8 @@ sudo apt install python3
 
 ```
 Install Docker by following the [official Docker docs](https://docs.docker.com/engine/install/debian/)
+OR
 
-           OR
 ```
 sudo snap install docker 
 ```
