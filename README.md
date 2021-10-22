@@ -9,7 +9,7 @@ This is a telegram bot writen in python for mirroring files on the internet to o
 Give Star & Fork this repo, then upload **token.pickle** & **credentials.json** to your forks and after this click on the below button 👇👇👇👇
 <p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p> -->
 
-- Video Guide
+# Video Guide
 <p><a href="https://youtu.be/6Qfx2U57x4M"> <img src="https://img.shields.io/badge/See%20Video-red?style=for-the-badge&logo=YouTube" width="160""/></a></p>
 
 ## Features supported:
