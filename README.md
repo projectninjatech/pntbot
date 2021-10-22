@@ -28,8 +28,6 @@ Give Star & Fork this repo, then upload **token.pickle** & **credentials.json** 
 - Mirror all youtube-dl supported links
 - Mirror telegram files
 - Delete files from drive
-- Check Heroku dynos stats
-- Nyaa.si and Sukebei Torrent search
 - Shell and Executor
 - Shortener support
 - Custom Buttons
