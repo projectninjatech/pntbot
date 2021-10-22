@@ -1,6 +1,6 @@
 [![Slam](https://telegra.ph/file/7a3896b921c6bda4b213b.jpg)](https://t.me/projectninjatech)
 
-# owner of this repo :- (https://github.com/projectninjatech)
+<!-- # owner of this repo :- (https://github.com/projectninjatech) -->
 
 # PNT Bot
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
@@ -32,8 +32,8 @@ Give Star & Fork this repo, then upload **token.pickle** & **credentials.json** 
 - Custom Buttons
 - Custom Filename (Only for url, telegram files and ytdl. Not for mega links and magnet/torrents)
 - Speedtest with picture results
-- Extracting password protected files and using custom filename see these examples:
-> https://telegra.ph/Magneto-Python-Aria---Custom-Filename-Examples-01-20
+<!-- - Extracting password protected files and using custom filename see these examples:
+> https://telegra.ph/Magneto-Python-Aria---Custom-Filename-Examples-01-20 -->
 - Extract these filetypes and uploads to google drive
 ```
 ZIP, RAR, TAR, 7z, ISO, WIM, CAB, GZIP, BZIP2, 
